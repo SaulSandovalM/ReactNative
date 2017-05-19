@@ -4,7 +4,7 @@
  * @flow
  */
 
-import { AppRegistry } from 'react-native';
-import Fixter from './components/App';
+ import { AppRegistry } from 'react-native';
+ import ReactFirebase from './components/App';
 
-AppRegistry.registerComponent('Fixter', () => Fixter);
+ AppRegistry.registerComponent('Fixter', () => ReactFirebase);
